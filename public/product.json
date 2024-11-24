@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "category": "Vegetable",
+        "category_img": "https://img.freepik.com/free-vector/vegetables-realistic-composition-white-background-with-tomato-onion-sweet-hot-pepper-eggplant_1284-16242.jpg?t=st=1732451506~exp=1732455106~hmac=cc4a96fc32c9f3b432691ec67d324444f87a0be88834ee35d1b5a35acede8682&w=360",
+        "product_name": "Organic Carrot",
+        "rating": 4.5,
+        "price": 2.5,
+        "description": "Fresh and organic carrots rich in vitamins and minerals.",
+        "product_type": "Medium"
+    },
+    {
+        "id": 2,
+        "category": "Vegetable",
+        "category_img": "https://img.freepik.com/free-vector/vegetables-realistic-composition-white-background-with-tomato-onion-sweet-hot-pepper-eggplant_1284-16242.jpg?t=st=1732451506~exp=1732455106~hmac=cc4a96fc32c9f3b432691ec67d324444f87a0be88834ee35d1b5a35acede8682&w=360",
+        "product_name": "Green Bell Pepper",
+        "rating": 4.2,
+        "price": 1.8,
+        "description": "Crisp and flavorful green bell peppers, great for salads and stir-fries.",
+        "product_type": "Low"
+    },
+    {
+        "id": 3,
+        "category": "Vegetable",
+        "category_img": "https://img.freepik.com/free-vector/vegetables-realistic-composition-white-background-with-tomato-onion-sweet-hot-pepper-eggplant_1284-16242.jpg?t=st=1732451506~exp=1732455106~hmac=cc4a96fc32c9f3b432691ec67d324444f87a0be88834ee35d1b5a35acede8682&w=360",
+        "product_name": "Broccoli",
+        "rating": 2.6,
+        "price": 3.0,
+        "description": "Fresh broccoli packed with nutrients and flavor.",
+        "product_type": "High"
+    },
+    {
+        "id": 4,
+        "category": "Herbs",
+        "category_img": "https://img.freepik.com/free-photo/arrangement-natural-various-herbs_23-2148791498.jpg?t=st=1732451633~exp=1732455233~hmac=f567ad9949f78bb898cdc00713c14b71e190abf41b62d6f0614806f891a2aaba&w=740",
+        "product_name": "Fresh Basil",
+        "rating": 4.8,
+        "price": 3.0,
+        "description": "Aromatic and fresh basil leaves, perfect for Italian dishes.",
+        "product_type": "High"
+    },
+    {
+        "id": 5,
+        "category": "Herbs",
+        "category_img": "https://img.freepik.com/free-photo/arrangement-natural-various-herbs_23-2148791498.jpg?t=st=1732451633~exp=1732455233~hmac=f567ad9949f78bb898cdc00713c14b71e190abf41b62d6f0614806f891a2aaba&w=740",
+        "product_name": "Mint Leaves",
+        "rating": 4.7,
+        "price": 2.2,
+        "description": "Cool and refreshing mint leaves, ideal for beverages and desserts.",
+        "product_type": "Medium"
+    },
+    {
+        "id": 6,
+        "category": "Herbs",
+        "category_img": "https://img.freepik.com/free-photo/arrangement-natural-various-herbs_23-2148791498.jpg?t=st=1732451633~exp=1732455233~hmac=f567ad9949f78bb898cdc00713c14b71e190abf41b62d6f0614806f891a2aaba&w=740",
+        "product_name": "Rosemary",
+        "rating": 4.6,
+        "price": 3.5,
+        "description": "Fragrant rosemary, perfect for roasting and grilling.",
+        "product_type": "High"
+    }
+]
