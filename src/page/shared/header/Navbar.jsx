@@ -68,7 +68,7 @@ const Header = () => {
         <Navbar>
             <NavbarBrand>
                 <h1 className="text-green-600">Vegitable</h1>
-                <p className="font-bold text-inherit">House</p>
+                <p className="font-bold text-red-500">House</p>
             </NavbarBrand>
             <NavbarContent className="hidden sm:flex gap-4" justify="center">
                 {menuItems?.map((item) => (

@@ -32,7 +32,10 @@ const Footer = () => {
                 </ul>
             </nav>
             <aside className="text-center text-sm">
-                <p>&copy; 2024 VegetableHouse. All Rights Reserved.</p>
+                <p >&copy; 2024 <span className="flex text-center justify-center">
+                    <h1 className="">Vegitable</h1>
+                    <p className="font-bold text-red-500">House</p>
+                </span>. All Rights Reserved.</p>
             </aside>
         </footer>
     );
